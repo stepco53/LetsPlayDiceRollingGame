@@ -27,4 +27,4 @@ Program ini bisa:
 1. Clone repo ini atau copy kodenya
 2. Jalankan lewat terminal / IDE:
 ```bash
-python dice_game.py
+python dice_rolling_game.py
